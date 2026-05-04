@@ -10,7 +10,7 @@ class DatabaseSeeder extends Seeder
     {
         $this->call([
             RolesPermissionsSeeder::class,
-            RestaurantDemoDataSeeder::class,
+            LocationSeeder::class,
         ]);
     }
 }
