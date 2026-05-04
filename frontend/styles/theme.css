@@ -41,7 +41,7 @@
 }
 
 .eservice-hero {
-  @apply relative overflow-hidden border-b border-border bg-grid-warm;
+  @apply relative overflow-hidden border-b border-border bg-background;
 }
 
 .eservice-hero-overlay {
@@ -57,7 +57,7 @@
 }
 
 .eservice-hero-title {
-  @apply mt-6 max-w-3xl text-4xl font-extrabold tracking-tight text-balance sm:text-5xl lg:text-6xl;
+  @apply mt-6 max-w-3xl text-4xl font-extrabold tracking-tight sm:text-5xl lg:text-6xl;
 }
 
 .eservice-hero-text {
